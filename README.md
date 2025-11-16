@@ -298,6 +298,25 @@ Found a message that could be more mystical? Have a better theme idea? Contribut
 
 This datapack only contains language overrides and does not include any Flan mod code. Feel free to use and modify for your server.
 
+## Join Our Community
+
+🎮 **Want to experience this datapack in action?** Join our exclusive members-only Minecraft SMP server!
+
+➡️ **[Become a Member & Join the SMP](https://gbti.network/members)**
+
+Our private server features custom claims with this mystical theme, a welcoming community, and much more. Limited slots available!
+
+## Stay Connected
+
+Follow us on your favorite platforms for updates, news, and community discussions:
+- **[Twitter/X](https://twitter.com/gbti_network)**
+- **[GitHub](https://github.com/gbti-network)**
+- **[YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA)**
+- **[Dev.to](https://dev.to/gbti)**
+- **[Daily.dev](https://dly.to/zfCriM6JfRF)**
+- **[Discord Community](https://gbti.network)**
+- **[Reddit Community](https://www.reddit.com/r/GBTI_network)**
+
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/gbti-network/flan-overwrite-default-messages/issues)
@@ -305,4 +324,4 @@ This datapack only contains language overrides and does not include any Flan mod
 
 ---
 
-**Made with ❤️ for mystical Minecraft servers**
+**Made with ❤️ for mystical Minecraft servers by the GBTI Network team**
