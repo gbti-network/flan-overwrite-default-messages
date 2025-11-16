@@ -2,6 +2,21 @@
 
 A Minecraft datapack that overrides all Flan land claiming mod messages with a mystical/arcane theme. Transform your server's claim system into a magical ward system with custom terminology and atmospheric messaging.
 
+## You Might Be Looking For This If...
+
+- You want to customize or change Flan's default claim messages
+- You're searching "how to change Flan messages" or "Flan custom text"
+- You need to override the "Sorry you can't do that here!" message
+- You're looking for Flan language file overrides or translations
+- You want to rebrand Flan terminology to match your server's theme (RPG, fantasy, medieval, etc.)
+- You need to make Flan messages silent or less intrusive
+- You're trying to figure out how to edit Flan's claim protection messages
+- You want to change "Owner" to something else like "Keeper", "Lord", or custom text
+- You're searching for Flan datapack customization or server-side message changes
+- You need themed claim messages without requiring players to download resource packs
+- You want to change the color or formatting of Flan's chat messages
+- You're looking for examples of Flan translation keys and language overrides
+
 ## Features
 
 - 🔮 **Complete Message Overhaul**: All 300+ Flan messages replaced with mystical alternatives
