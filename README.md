@@ -304,7 +304,7 @@ This datapack only contains language overrides and does not include any Flan mod
 
 ➡️ **[Become a Member & Join the SMP](https://gbti.network/members)**
 
-Our private server features custom claims with this mystical theme, a welcoming community, and much more. Limited slots available!
+Our private server features custom claims with this mystical theme, a welcoming community, and much more.
 
 ## Stay Connected
 
