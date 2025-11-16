@@ -31,7 +31,7 @@ A Minecraft datapack that overrides all Flan land claiming mod messages with a m
 - 🚀 **Server-Side Only**: No client downloads required
 - ⚡ **Instant Updates**: Use `/reload` to apply changes
 
-📖 **[Read the full tutorial: How to Edit Flan Messages](https://gbti.network/minecrft/how-to-edit-flan-text-messages-in-minecraft)**
+📖 **[Read the full tutorial: How to Edit Flan Messages](https://gbti.network/minecraft/how-to-edit-flan-text-messages-in-minecraft)**
 
 ## Quick Start
 
